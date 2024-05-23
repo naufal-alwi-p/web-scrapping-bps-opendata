@@ -95,7 +95,7 @@ listBPS = [
     {
         "url": "https://semarangkota.bps.go.id/indicator/23/106/1/garis-kemiskinan.html",
         "output": "Garis_Kemiskinan_Kota_Semarang.csv",
-        "header3": "Garis Kemiskinan (Rupiah/Kapita/Bulan)",
+        "header3": "Garis_Kemiskinan", # Garis Kemiskinan (Rupiah/Kapita/Bulan)
     },
     {
         "url": "https://semarangkota.bps.go.id/indicator/23/105/1/jumlah-penduduk-miskin.html",
@@ -105,7 +105,7 @@ listBPS = [
     {
         "url": "https://surabayakota.bps.go.id/indicator/23/87/1/garis-kemiskinan.html",
         "output": "Garis_Kemiskinan_Kota_Surabaya.csv",
-        "header3": "Garis Kemiskinan (Rupiah/Kapita/Bulan)",
+        "header3": "Garis_Kemiskinan",
     },
     {
         "url": "https://surabayakota.bps.go.id/indicator/23/89/1/jumlah-penduduk-miskin.html",
@@ -117,12 +117,12 @@ listOpendata = [
     {
         "url": "https://opendata.bandung.go.id/dataset/garis-kemiskinan-di-kota-bandung",
         "output": "Garis_Kemiskinan_Kota_Bandung.csv",
-        "header3": "Garis Kemiskinan (Rupiah/Kapita/Bulan)"
+        "header3": "Garis_Kemiskinan"
     },
     {
         "url": "https://opendata.bandung.go.id/dataset/jumlah-penduduk-miskin-di-kota-bandung",
         "output": "Jumlah_Penduduk_Miskin_Kota_Bandung.csv",
-        "header3": "Jumlah Penduduk"
+        "header3": "Jumlah_Penduduk"
     }
 ]
 
